@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 636bf2ff246944446a2e5a53119a9989
+timeCreated: 1511422546
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Adler
+  fontNames:
+  - Adler
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
